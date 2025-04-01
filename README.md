@@ -1,6 +1,18 @@
 # algorithm-factory
 
 
+## 🌈 Convention Rule
+
+PR | [알고리즘 토픽] week[N]/[name]
+ex) `[해시] week2/ppushu`
+
+BRANCH | week[N]/[name]
+ex) `week2/ppushu`
+
+COMMIT | week[N]/[문제사이트]: 문제이름 
+ex) `week2/programmers: 폰켓몬`
+
+
 ## week1 (03/26-03/31)
 ####  ✅ 필수 문제
 | 문제 |난이도| 비고 |
